@@ -25,6 +25,7 @@ The purpose of this repository is to collect the application research of deep le
 
 - Yan, R., et al., Knowledge Transfer for Rotary Machine Fault Diagnosis. IEEE Sensors Journal: p. 1-1.[link](https://ieeexplore.ieee.org/document/8880697)
 
+- Lei, Y., et al., Machinery health prognostics: A systematic review from data acquisition to RUL prediction. Mechanical Systems and Signal Processing, 2018. 104: p. 799-834.[link](https://www.sciencedirect.com/science/article/pii/S0888327017305988)
 
 
 

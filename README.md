@@ -15,6 +15,19 @@ The purpose of this repository is to collect the application research of deep le
 
 - Lee, J., et al., Prognostics and health management design for rotary machinery systems—Reviews, methodology and applications. Mechanical Systems and Signal Processing, 2014. 42(1): p. 314-334.[link](https://www.sciencedirect.com/science/article/pii/S0888327013002860)
 
+-  Chen, X., et al., Basic research on machinery fault diagnostics: Past, present, and future trends. Frontiers of Mechanical Engineering, 2018. 13(2): p. 264-291.[link](https://link.springer.com/article/10.1007%2Fs11465-018-0472-3)
+
+-  El-Thalji, I. and E. Jantunen, A summary of fault modelling and predictive health monitoring of rolling element bearings. Mechanical Systems and Signal Processing, 2015. 60-61: p. 252-272.[link](https://www.sciencedirect.com/science/article/pii/S0888327015000813?via%3Dihub)
+
+- Cerrada, M., et al., A review on data-driven fault severity assessment in rolling bearings. Mechanical Systems and Signal Processing, 2018. 99: p. 169-196.[link](https://www.sciencedirect.com/science/article/pii/S0888327017303242)
+
+- Zhang, S., et al., Machine Learning and Deep Learning Algorithms for Bearing Fault Diagnostics - A Comprehensive Review. arXiv preprint arXiv:1901.08247, 2019.[link](https://arxiv.org/abs/1901.08247)
+
+- Yan, R., et al., Knowledge Transfer for Rotary Machine Fault Diagnosis. IEEE Sensors Journal: p. 1-1.[link](https://ieeexplore.ieee.org/document/8880697)
+
+
+
+
 
 ### Original research papers
 

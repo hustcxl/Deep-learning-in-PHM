@@ -31,7 +31,7 @@ The purpose of this repository is to collect the application research of deep le
 
 
 ### Original research papers
-- [fault diagnosis](./doc/FD.md)
+- [Fault diagnosis](./doc/FD.md)
 - [Trend prediction](./doc/TD.md)
 - [Remaining useful life prediction](./doc/RULP.md)
 

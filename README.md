@@ -41,7 +41,7 @@ The purpose of this repository is to collect the application research of deep le
 - [to prediction the remain useful life of bearing based on 2012 PHM data](https://github.com/ddrrrr/projectRUL)
 - [Remaining Useful Life Prediction Using RNN/LSTM/GRU Neural Networks](https://github.com/lankuohsing/Remaining-Useful-Life-Prediction-RNN)
 - [Convolutional Recurrent Neural Networks for Remaining Useful Life Prediction in Mechanical Systems](https://github.com/nicolasoyharcabal/ConvRNN_for_RUL_estimation)
-
+- [NASA-Prognostics Algorithm Library](https://github.com/nasa/PrognosticsAlgorithmLibrary)
 
 
 ## Research teams

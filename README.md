@@ -38,6 +38,10 @@ The purpose of this repository is to collect the application research of deep le
 
 ## Open source projects
 - [Algorithm recurrence of two highly cited papers](https://github.com/AiZhanghan/deep-learning-fault-diagnosis)
+- [to prediction the remain useful life of bearing based on 2012 PHM data](https://github.com/ddrrrr/projectRUL)
+- [Remaining Useful Life Prediction Using RNN/LSTM/GRU Neural Networks](https://github.com/lankuohsing/Remaining-Useful-Life-Prediction-RNN)
+- [Convolutional Recurrent Neural Networks for Remaining Useful Life Prediction in Mechanical Systems](https://github.com/nicolasoyharcabal/ConvRNN_for_RUL_estimation)
+
 
 
 ## Research teams

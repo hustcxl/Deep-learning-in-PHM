@@ -7,7 +7,7 @@
 
 
 ## Gearbox fault diagnosis
-- Jiang, G., et al., Multiscale Convolutional Neural Networks for Fault Diagnosis of Wind Turbine Gearbox. IEEE Transactions on Industrial Electronics, 2019. 66(4): p. 3196-3207.[link](https://ieeexplore.ieee.org/document/8384293)[Notes](../notes/papernotes1.md)
+- Jiang, G., et al., Multiscale Convolutional Neural Networks for Fault Diagnosis of Wind Turbine Gearbox. IEEE Transactions on Industrial Electronics, 2019. 66(4): p. 3196-3207.[link](https://ieeexplore.ieee.org/document/8384293)---[Notes](../notes/papernotes1.md)
 
 
 

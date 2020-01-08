@@ -5,6 +5,7 @@ The purpose of this repository is to collect the application research of deep le
 
 ## papers
 ### review papers
+- Lei, Y., et al., Applications of machine learning to machine fault diagnosis: A review and roadmap. Mechanical Systems and Signal Processing, 2020. 138: p. 106587.[link](https://www.sciencedirect.com/science/article/pii/S0888327019308088?via%3Dihub)
 - Zhao, R., et al., Deep learning and its applications to machine health monitoring. Mechanical Systems and Signal Processing, 2019. 115: p. 213-237.[link](https://www.sciencedirect.com/science/article/pii/S0888327018303108)
 -  Khan, S. and T. Yairi, A review on the application of deep learning in system health management. Mechanical Systems and Signal Processing, 2018. 107: p. 241-265.[link](https://www.sciencedirect.com/science/article/pii/S0888327017306064)
 - Hoang, D. and H. Kang, A survey on Deep Learning based bearing fault diagnosis. Neurocomputing, 2019. 335: p. 327-335.[link](https://www.sciencedirect.com/science/article/pii/S0925231218312657)

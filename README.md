@@ -37,5 +37,6 @@ The purpose of this repository is to collect the application research of deep le
 
 
 ## Research teams
+- [Lei Yaguo's team XJTU](http://gr.xjtu.edu.cn/web/yaguolei/research;jsessionid=BB8D3BEF8C8D431E9962790085F019EF)
 
 

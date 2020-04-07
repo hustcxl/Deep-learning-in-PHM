@@ -18,6 +18,7 @@ The purpose of this repository is to collect the application research of deep le
 - Zhang, S., et al., Machine Learning and Deep Learning Algorithms for Bearing Fault Diagnostics - A Comprehensive Review. arXiv preprint arXiv:1901.08247, 2019.[link](https://arxiv.org/abs/1901.08247)
 - Yan, R., et al., Knowledge Transfer for Rotary Machine Fault Diagnosis. IEEE Sensors Journal: p. 1-1.[link](https://ieeexplore.ieee.org/document/8880697)
 - Lei, Y., et al., Machinery health prognostics: A systematic review from data acquisition to RUL prediction. Mechanical Systems and Signal Processing, 2018. 104: p. 799-834.[link](https://www.sciencedirect.com/science/article/pii/S0888327017305988)
+-	Liu, W., et al., A survey of deep neural network architectures and their applications. Neurocomputing, 2017. 234: p. 11-26.[link](https://doi.org/10.1016/j.neucom.2016.12.038)
 
 
 

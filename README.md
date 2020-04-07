@@ -5,6 +5,8 @@ The purpose of this repository is to collect the application research of deep le
 
 ## papers
 ### review papers
+-	LeCun, Y., Y. Bengio and G. Hinton, Deep learning. Nature, 2015. 521: p. 436
+EP  -.[link](https://www.nature.com/articles/nature14539)
 -	Jiao, J., et al., A comprehensive review on convolutional neural network in machine fault diagnosis. 2020.[link](https://arxiv.org/abs/2002.07605)
 - Lei, Y., et al., Applications of machine learning to machine fault diagnosis: A review and roadmap. Mechanical Systems and Signal Processing, 2020. 138: p. 106587.[link](https://www.sciencedirect.com/science/article/pii/S0888327019308088?via%3Dihub)
 - Zhao, R., et al., Deep learning and its applications to machine health monitoring. Mechanical Systems and Signal Processing, 2019. 115: p. 213-237.[link](https://www.sciencedirect.com/science/article/pii/S0888327018303108)

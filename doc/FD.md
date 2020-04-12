@@ -8,6 +8,9 @@
 - Li, X., W. Zhang and Q. Ding, Cross-Domain Fault Diagnosis of Rolling Element Bearings Using Deep Generative Neural Networks. IEEE Transactions on Industrial Electronics, 2019. 66(7): p. 5525-5534. [link](https://ieeexplore.ieee.org/document/8456850)
 - Shao, S., P. Wang and R. Yan, Generative adversarial networks for data augmentation in machine fault diagnosis. Computers in Industry, 2019. 106: p. 85-93.[link](https://www.sciencedirect.com/science/article/pii/S0166361518305657?via%3Dihub)
 -	Wen, L., et al., A New Convolutional Neural Network-Based Data-Driven Fault Diagnosis Method. IEEE Transactions on Industrial Electronics, 2018. 65(7): p. 5990-5998.[link](https://ieeexplore.ieee.org/document/8114247)
+-	Wen, L., L. Gao and X. Li, A New Deep Transfer Learning Based on Sparse Auto-Encoder for Fault Diagnosis. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2019. 49(1): p. 136-144.[link](https://ieeexplore.ieee.org/document/8058000)
+-	Wen, L., X. Li and L. Gao, A New Two-Level Hierarchical Diagnosis Network Based on Convolutional Neural Network. IEEE Transactions on Instrumentation and Measurement, 2020. 69(2): p. 330-338.[link](https://ieeexplore.ieee.org/document/8649683)
+
 
 
 

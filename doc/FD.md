@@ -7,6 +7,7 @@
 - Jiao J, Zhao M, Lin J, et al. A comprehensive review on convolutional neural network in machine fault diagnosis[J]. arXiv preprint arXiv:2002.07605, 2020. [link](https://arxiv.org/ftp/arxiv/papers/2002/2002.07605.pdf)
 - Li, X., W. Zhang and Q. Ding, Cross-Domain Fault Diagnosis of Rolling Element Bearings Using Deep Generative Neural Networks. IEEE Transactions on Industrial Electronics, 2019. 66(7): p. 5525-5534. [link](https://ieeexplore.ieee.org/document/8456850)
 - Shao, S., P. Wang and R. Yan, Generative adversarial networks for data augmentation in machine fault diagnosis. Computers in Industry, 2019. 106: p. 85-93.[link](https://www.sciencedirect.com/science/article/pii/S0166361518305657?via%3Dihub)
+-	Wen, L., et al., A New Convolutional Neural Network-Based Data-Driven Fault Diagnosis Method. IEEE Transactions on Industrial Electronics, 2018. 65(7): p. 5990-5998.[link](https://ieeexplore.ieee.org/document/8114247)
 
 
 

@@ -4,6 +4,11 @@ Deep learning in PHM，Deep learning in fault diagnosis，Deep learning in remai
 The purpose of this repository is to collect the application research of deep learning in PHM field, collect and organize the open-source algorithm resources, and provide a platform for researchers to learn and communicate.
 
 ## papers
+
+### Weekly paper express
+- 2020
+[0413-0419](/2020/0413.md)
+
 ### review papers
 -	LeCun, Y., Y. Bengio and G. Hinton, Deep learning. Nature, 2015. 521: p. 436
 EP  -.[link](https://www.nature.com/articles/nature14539)

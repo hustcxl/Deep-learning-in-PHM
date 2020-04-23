@@ -8,7 +8,7 @@ The purpose of this repository is to collect the application research of deep le
 ### Weekly paper express
 - 2020 
 
-[0413-0419](/doc/2020/0413.md)
+[0413-0419](/doc/2020/0413.md)   [0420-0426](/doc/2020/0420.md)
 
 ### review papers
 -	LeCun, Y., Y. Bengio and G. Hinton, Deep learning. Nature, 2015. 521: p. 436

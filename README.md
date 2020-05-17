@@ -11,7 +11,7 @@ The purpose of this repository is to collect the application research of deep le
 [0413-0419](/doc/2020/0413.md)    |    [0420-0426](/doc/2020/0420.md)
 
 ### review papers
--	Wang, P. and R.X. Gao, Transfer learning for enhanced machine fault diagnosis in manufacturing. CIRP Annals, 2020.[linl](https://doi.org/10.1016/j.cirp.2020.04.074)
+-	Wang, P. and R.X. Gao, Transfer learning for enhanced machine fault diagnosis in manufacturing. CIRP Annals, 2020.[link](https://doi.org/10.1016/j.cirp.2020.04.074)
 -	Li, C., et al., A systematic review of deep transfer learning for machinery fault diagnosis. Neurocomputing, 2020.[link](https://doi.org/10.1016/j.neucom.2020.04.045)
 -	LeCun, Y., Y. Bengio and G. Hinton, Deep learning. Nature, 2015. 521: p. 436
 EP  -.[link](https://www.nature.com/articles/nature14539)

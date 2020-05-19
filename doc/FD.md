@@ -1,6 +1,7 @@
 # Fault Diagnosis
 
 ## Bearing fault diagnosis
+-	 Zou, L., Y. Li and F. Xu, An adversarial denoising convolutional neural network for fault diagnosis of rotating machinery under noisy environment and limited sample size case. Neurocomputing, 2020.[Link](https://doi.org/10.1016/j.neucom.2020.04.074)
 -	Guo, S., et al., Multitask Convolutional Neural Network With Information Fusion for Bearing Fault Diagnosis and Localization. IEEE Transactions on Industrial Electronics, 2020. 67(9): p. 8005-8015.[link](https://ieeexplore.ieee.org/document/8848851)
 -	Wang, H., et al., An Enhanced Intelligent Diagnosis Method Based on Multi-Sensor Image Fusion via Improved Deep Learning Network. IEEE Transactions on Instrumentation and Measurement, 2020. 69(6): p. 2648-2657.[link](https://ieeexplore.ieee.org/document/8760507)
 - Mao, W., W. Feng and X. Liang, A novel deep output kernel learning method for bearing fault structural diagnosis. Mechanical Systems and Signal Processing, 2019. 117: p. 293-318.[link](https://www.sciencedirect.com/science/article/pii/S0888327018304357)

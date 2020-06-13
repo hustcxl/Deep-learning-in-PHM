@@ -1,6 +1,7 @@
 # Fault Diagnosis
 
 ## Bearing fault diagnosis
+-	Xu, X., et al., Intelligent monitoring and diagnostics using a novel integrated model based on deep learning and multi-sensor feature fusion. Measurement, 2020: p. 108086.[link](https://www.sciencedirect.com/science/article/pii/S0263224120306242?dgcid=rss_sd_all)
 -	Haidong, S., et al., Intelligent fault diagnosis among different rotating machines using novel stacked transfer auto-encoder optimized by PSO. ISA Transactions, 2020.[link](https://doi.org/10.1016/j.isatra.2020.05.041)
 -	 Zou, L., Y. Li and F. Xu, An adversarial denoising convolutional neural network for fault diagnosis of rotating machinery under noisy environment and limited sample size case. Neurocomputing, 2020.[Link](https://doi.org/10.1016/j.neucom.2020.04.074)
 -	Guo, S., et al., Multitask Convolutional Neural Network With Information Fusion for Bearing Fault Diagnosis and Localization. IEEE Transactions on Industrial Electronics, 2020. 67(9): p. 8005-8015.[link](https://ieeexplore.ieee.org/document/8848851)

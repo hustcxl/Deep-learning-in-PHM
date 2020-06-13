@@ -1,6 +1,7 @@
 # Fault Diagnosis
 
 ## Bearing fault diagnosis
+-	Cheng, C., et al., Wasserstein distance based deep adversarial transfer learning for intelligent fault diagnosis with unlabeled or insufficient labeled data. Neurocomputing, 2020. 409: p. 35-45.[link](https://www.sciencedirect.com/science/article/pii/S0925231220308754?dgcid=rss_sd_all)
 - Zhang, Z., et al., Unsupervised domain adaptation via enhanced transfer joint matching for bearing fault diagnosis. Measurement, 2020: p. 108071.[link](https://www.sciencedirect.com/science/article/pii/S0263224120306096?dgcid=rss_sd_all)
 -	Xu, X., et al., Intelligent monitoring and diagnostics using a novel integrated model based on deep learning and multi-sensor feature fusion. Measurement, 2020: p. 108086.[link](https://www.sciencedirect.com/science/article/pii/S0263224120306242?dgcid=rss_sd_all)
 -	Haidong, S., et al., Intelligent fault diagnosis among different rotating machines using novel stacked transfer auto-encoder optimized by PSO. ISA Transactions, 2020.[link](https://doi.org/10.1016/j.isatra.2020.05.041)

@@ -52,6 +52,6 @@ EP  -.[link](https://www.nature.com/articles/nature14539)
 - [Chen Xuefeng's team XJTU](http://gr.xjtu.edu.cn/web/chenxf/1)
 - [Lei Yaguo's team XJTU](http://gr.xjtu.edu.cn/web/yaguolei/research;jsessionid=BB8D3BEF8C8D431E9962790085F019EF)
 - [Wen Long's team CUG](http://jidian.cug.edu.cn/info/1131/3057.htm)
-- [Zuo Mingjian's team ](https://sites.ualberta.ca/~mzuo/)
+- [Mingjian Zuo's team University of Alberta](https://sites.ualberta.ca/~mzuo/)
 
 

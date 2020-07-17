@@ -1,6 +1,7 @@
 # Fault Diagnosis
 
 ## Bearing fault diagnosis
+-	Li, S., et al., An adaptive data fusion strategy for fault diagnosis based on the convolutional neural network. Measurement, 2020. 165: p. 108122.[link](https://www.sciencedirect.com/science/article/pii/S0263224120306606?dgcid=rss_sd_all)
 - Chen, Z., et al., Domain Adversarial Transfer Network for Cross-domain Fault Diagnosis of Rotary Machinery. IEEE Transactions on Instrumentation and Measurement: p. 1-1.[link](https://ieeexplore.ieee.org/document/9099635)
 -	Cheng, C., et al., Wasserstein distance based deep adversarial transfer learning for intelligent fault diagnosis with unlabeled or insufficient labeled data. Neurocomputing, 2020. 409: p. 35-45.[link](https://www.sciencedirect.com/science/article/pii/S0925231220308754?dgcid=rss_sd_all)
 - Zhang, Z., et al., Unsupervised domain adaptation via enhanced transfer joint matching for bearing fault diagnosis. Measurement, 2020: p. 108071.[link](https://www.sciencedirect.com/science/article/pii/S0263224120306096?dgcid=rss_sd_all)

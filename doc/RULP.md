@@ -10,6 +10,10 @@
 
 ## LSTM
 - Lyu, Y., et al., Joint Model for Residual Life Estimation Based on Long-Short Term Memory Network. Neurocomputing, 2020.[link](https://doi.org/10.1016/j.neucom.2020.06.052)
+- Xiang, S., et al., LSTM networks based on attention ordered neurons for gear remaining life prediction. ISA Transactions, 2020.[link](https://www.sciencedirect.com/science/article/pii/S001905782030269X?dgcid=rss_sd_all)
+-	Sayah, M., et al., Robustness testing framework for RUL prediction Deep LSTM networks. ISA Transactions, 2020.[link](https://doi.org/10.1016/j.isatra.2020.07.003)
+
+
 
 
 [:back:](../README.md)

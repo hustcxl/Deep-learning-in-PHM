@@ -33,7 +33,8 @@
 
 
 
-## Others
+## Others	
+- Chadha, G.S., et al., Bidirectional deep recurrent neural networks for process fault classification. ISA Transactions, 2020.[link](https://www.sciencedirect.com/science/article/pii/S0019057820302846)
 
 
 [:back:返回主目录](../README.md)

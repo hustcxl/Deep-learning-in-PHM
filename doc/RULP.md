@@ -9,6 +9,7 @@
 - Yu, W., I.Y. Kim and C. Mechefske, Remaining useful life estimation using a bidirectional recurrent neural network based autoencoder scheme. Mechanical Systems and Signal Processing, 2019. 129: p. 764-780.[link](https://doi.org/10.1016/j.ymssp.2019.05.005)
 
 ## LSTM
+- Ding, N., et al., Journal bearing seizure degradation assessment and remaining useful life prediction based on long short-term memory neural network. Measurement, 2020: p. 108215.[link](https://doi.org/10.1016/j.measurement.2020.108215)
 - Lyu, Y., et al., Joint Model for Residual Life Estimation Based on Long-Short Term Memory Network. Neurocomputing, 2020.[link](https://doi.org/10.1016/j.neucom.2020.06.052)
 - Xiang, S., et al., LSTM networks based on attention ordered neurons for gear remaining life prediction. ISA Transactions, 2020.[link](https://www.sciencedirect.com/science/article/pii/S001905782030269X?dgcid=rss_sd_all)
 -	Sayah, M., et al., Robustness testing framework for RUL prediction Deep LSTM networks. ISA Transactions, 2020.[link](https://doi.org/10.1016/j.isatra.2020.07.003)

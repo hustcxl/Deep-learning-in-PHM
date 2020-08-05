@@ -11,6 +11,7 @@ The purpose of this repository is to collect the application research of deep le
 [0413-0419](/doc/2020/0413.md)    |    [0420-0426](/doc/2020/0420.md)
 
 ### review papers
+- 	Jiao, J., et al., A comprehensive review on convolutional neural network in machine fault diagnosis. Neurocomputing, 2020.[link](https://www.sciencedirect.com/science/article/pii/S092523122031225X)
 -  Singh, J., et al., A systematic review of machine learning algorithms for PHM of rolling element bearings: fundamentals, concepts, and applications. Measurement Science and Technology, 2020.[link](https://iopscience.iop.org/article/10.1088/1361-6501/ab8df9)
 -	Liu, Z. and L. Zhang, A review of failure modes, condition monitoring and fault diagnosis methods for large-scale wind turbine bearings. Measurement, 2020. 149: p. 107002.[link](https://doi.org/10.1016/j.measurement.2019.107002)
 -	Wang, P. and R.X. Gao, Transfer learning for enhanced machine fault diagnosis in manufacturing. CIRP Annals, 2020.[link](https://doi.org/10.1016/j.cirp.2020.04.074)

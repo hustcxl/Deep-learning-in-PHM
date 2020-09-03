@@ -11,6 +11,7 @@ The purpose of this repository is to collect the application research of deep le
 [0413-0419](/doc/2020/0413.md)    |    [0420-0426](/doc/2020/0420.md)
 
 ### review papers
+- 	Dalzochio, J., et al., Machine learning and reasoning for predictive maintenance in Industry 4.0: Current status and challenges. Computers in Industry, 2020. 123: p. 103298.[link](https://doi.org/10.1016/j.compind.2020.103298)
 -  Zhao, Z., et al., Deep learning algorithms for rotating machinery intelligent diagnosis: An open source benchmark study. ISA Transactions, 2020.[link](https://doi.org/10.1016/j.isatra.2020.08.010)
 - 	Jiao, J., et al., A comprehensive review on convolutional neural network in machine fault diagnosis. Neurocomputing, 2020.[link](https://www.sciencedirect.com/science/article/pii/S092523122031225X)
 -  Singh, J., et al., A systematic review of machine learning algorithms for PHM of rolling element bearings: fundamentals, concepts, and applications. Measurement Science and Technology, 2020.[link](https://iopscience.iop.org/article/10.1088/1361-6501/ab8df9)

@@ -1,6 +1,7 @@
 # Fault Diagnosis
 
 ## Bearing fault diagnosis
+-	Mao, W., et al., A new deep auto-encoder method with fusing discriminant information for bearing fault diagnosis. Mechanical Systems and Signal Processing, 2021. 150: p. 107233.[link](https://doi.org/10.1016/j.ymssp.2020.107233)
 -  Chen, Z., et al., A deep learning method for bearing fault diagnosis based on Cyclic Spectral Coherence and Convolutional Neural Networks. Mechanical Systems and Signal Processing, 2020. 140: p. 106683.[link](https://doi.org/10.1016/j.ymssp.2020.106683)
 -	Li, S., et al., An adaptive data fusion strategy for fault diagnosis based on the convolutional neural network. Measurement, 2020. 165: p. 108122.[link](https://www.sciencedirect.com/science/article/pii/S0263224120306606?dgcid=rss_sd_all)
 - Chen, Z., et al., Domain Adversarial Transfer Network for Cross-domain Fault Diagnosis of Rotary Machinery. IEEE Transactions on Instrumentation and Measurement: p. 1-1.[link](https://ieeexplore.ieee.org/document/9099635)

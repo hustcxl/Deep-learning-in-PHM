@@ -1,6 +1,7 @@
 # Fault Diagnosis
 
 ## Bearing fault diagnosis
+- T. Li, Z. Zhao, C. Sun, R. Yan and X. Chen, "Multi-receptive Field Graph Convolutional Networks for Machine Fault Diagnosis," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2020.3040669.[link](https://ieeexplore.ieee.org/document/9280401)
 -	Jin, Y., et al., Actual Bearing Compound Fault Diagnosis based on Active Learning and Decoupling Attentional Residual Network. Measurement, 2020: p. 108500.[link](https://doi.org/10.1016/j.measurement.2020.108500)
 -	Tong, J., et al., A Novel Cuckoo Search Optimized Deep Auto-Encoder Network-Based Fault Diagnosis Method for Rolling Bearing. Shock and Vibration, 2020. 2020: p. 1-12.[link](https://doi.org/10.1155/2020/8891905)
 -	Mao, W., et al., A new deep auto-encoder method with fusing discriminant information for bearing fault diagnosis. Mechanical Systems and Signal Processing, 2021. 150: p. 107233.[link](https://doi.org/10.1016/j.ymssp.2020.107233)

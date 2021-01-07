@@ -1,6 +1,7 @@
 # Fault Diagnosis
 
 ## Bearing fault diagnosis
+- Chen, J., et al., Unsupervised Cross-domain Fault Diagnosis Using Feature Representation Alignment Networks for Rotating Machinery. IEEE/ASME Transactions on Mechatronics: p. 1-1.[link](https://ieeexplore.ieee.org/abstract/document/9301443)
 - T. Li, Z. Zhao, C. Sun, R. Yan and X. Chen, "Multi-receptive Field Graph Convolutional Networks for Machine Fault Diagnosis," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2020.3040669.[link](https://ieeexplore.ieee.org/document/9280401)
 -	Jin, Y., et al., Actual Bearing Compound Fault Diagnosis based on Active Learning and Decoupling Attentional Residual Network. Measurement, 2020: p. 108500.[link](https://doi.org/10.1016/j.measurement.2020.108500)
 -	Tong, J., et al., A Novel Cuckoo Search Optimized Deep Auto-Encoder Network-Based Fault Diagnosis Method for Rolling Bearing. Shock and Vibration, 2020. 2020: p. 1-12.[link](https://doi.org/10.1155/2020/8891905)

@@ -42,6 +42,7 @@
 
 ## Others	
 - Chadha, G.S., et al., Bidirectional deep recurrent neural networks for process fault classification. ISA Transactions, 2020.[link](https://www.sciencedirect.com/science/article/pii/S0019057820302846)
-
+- Fu, S., et al., A re-optimized deep auto-encoder for gas turbine unsupervised anomaly detection. Engineering Applications of Artificial Intelligence, 2021. 101: p. 104199.
+[link](https://doi.org/10.1016/j.engappai.2021.104199)
 
 [:back:返回主目录](../README.md)

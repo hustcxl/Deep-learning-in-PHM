@@ -1,6 +1,7 @@
 # Fault Diagnosis
 
 ## Bearing fault diagnosis
+- Xin, L., et al., Modified Gaussian convolutional deep belief network and infrared thermal imaging for intelligent fault diagnosis of rotor-bearing system under time-varying speeds. Structural Health Monitoring, 2021: p. 147592172199895.[link](https://doi.org/10.1177/1475921721998957)
 - Chen, J., et al., Unsupervised Cross-domain Fault Diagnosis Using Feature Representation Alignment Networks for Rotating Machinery. IEEE/ASME Transactions on Mechatronics: p. 1-1.[link](https://ieeexplore.ieee.org/abstract/document/9301443)
 - T. Li, Z. Zhao, C. Sun, R. Yan and X. Chen, "Multi-receptive Field Graph Convolutional Networks for Machine Fault Diagnosis," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2020.3040669.[link](https://ieeexplore.ieee.org/document/9280401)
 -	Jin, Y., et al., Actual Bearing Compound Fault Diagnosis based on Active Learning and Decoupling Attentional Residual Network. Measurement, 2020: p. 108500.[link](https://doi.org/10.1016/j.measurement.2020.108500)
